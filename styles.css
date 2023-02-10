@@ -1,0 +1,89 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+    background-color: #fffdaf;
+    border-radius: 25px;
+    padding: 22px;
+    align-items: center;
+    text-align: center;
+    color: #3B3B39;
+    font-size: 15px;
+    margin: 25px 0;
+}
+
+#title {
+    margin-bottom: -12px;
+}
+
+#subtitle {
+    padding-bottom: 25px;
+}
+
+#img-div {
+    background-color: white;
+    display: block;
+    border-radius: 20px;
+}
+
+#img-caption {
+    display: block;
+    margin: 15px 0 0 0;
+    padding-bottom: 25px;
+}
+
+#image {
+    display: block;
+    width: 800px; 
+    max-width: 100%;
+    height: auto;
+    margin: 25px auto 0 auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 1px rgba(64, 63, 44, 35%);
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+#tribute-info {
+    margin-top: 45px;
+}
+
+ol {
+    display: block;
+    justify-content: left;
+    text-align: justify;
+    margin-left: 25%;
+    margin-bottom: 40px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+li:nth-child(1)::marker, li:nth-child(2)::marker, li:nth-child(3)::marker, li:nth-child(4)::marker, li:nth-child(5)::marker  {
+    font-weight: 600;
+  }
+
+#quote {
+    margin-bottom: 40px;
+}
+
+.ref {
+    font-size: 18px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a {
+    color: #776887;
+    text-decoration: none;
+}

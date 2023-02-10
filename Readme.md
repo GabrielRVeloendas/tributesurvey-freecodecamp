@@ -1,0 +1,1 @@
+Olá esse projeto faz parte do FreeCodeCamp, é o segundo projeto deles do curso de "Resposive Web Design Certification", onde era pra ser feito um site como se fosse uma página de tributo a alguém falecido, que eles tinham lá um site de referência, usei o site de referência, e fiz uma página de tributo a um personagem de um desenho que assistia quando mais novo.
